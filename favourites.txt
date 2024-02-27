@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 movie A
 movie B
 movie C
+food A
+food B
+
